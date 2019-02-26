@@ -1,0 +1,11 @@
+/Users/xander/Documents/StudyDocument/CS/C#program/Homework/Chapter1/Assignment1.4/ConsoleApp2/ConsoleApp2/bin/Debug/netcoreapp2.2/ConsoleApp2.deps.json
+/Users/xander/Documents/StudyDocument/CS/C#program/Homework/Chapter1/Assignment1.4/ConsoleApp2/ConsoleApp2/bin/Debug/netcoreapp2.2/ConsoleApp2.runtimeconfig.json
+/Users/xander/Documents/StudyDocument/CS/C#program/Homework/Chapter1/Assignment1.4/ConsoleApp2/ConsoleApp2/bin/Debug/netcoreapp2.2/ConsoleApp2.runtimeconfig.dev.json
+/Users/xander/Documents/StudyDocument/CS/C#program/Homework/Chapter1/Assignment1.4/ConsoleApp2/ConsoleApp2/bin/Debug/netcoreapp2.2/ConsoleApp2.dll
+/Users/xander/Documents/StudyDocument/CS/C#program/Homework/Chapter1/Assignment1.4/ConsoleApp2/ConsoleApp2/bin/Debug/netcoreapp2.2/ConsoleApp2.pdb
+/Users/xander/Documents/StudyDocument/CS/C#program/Homework/Chapter1/Assignment1.4/ConsoleApp2/ConsoleApp2/obj/Debug/netcoreapp2.2/ConsoleApp2.csprojAssemblyReference.cache
+/Users/xander/Documents/StudyDocument/CS/C#program/Homework/Chapter1/Assignment1.4/ConsoleApp2/ConsoleApp2/obj/Debug/netcoreapp2.2/ConsoleApp2.csproj.CoreCompileInputs.cache
+/Users/xander/Documents/StudyDocument/CS/C#program/Homework/Chapter1/Assignment1.4/ConsoleApp2/ConsoleApp2/obj/Debug/netcoreapp2.2/ConsoleApp2.AssemblyInfoInputs.cache
+/Users/xander/Documents/StudyDocument/CS/C#program/Homework/Chapter1/Assignment1.4/ConsoleApp2/ConsoleApp2/obj/Debug/netcoreapp2.2/ConsoleApp2.AssemblyInfo.cs
+/Users/xander/Documents/StudyDocument/CS/C#program/Homework/Chapter1/Assignment1.4/ConsoleApp2/ConsoleApp2/obj/Debug/netcoreapp2.2/ConsoleApp2.dll
+/Users/xander/Documents/StudyDocument/CS/C#program/Homework/Chapter1/Assignment1.4/ConsoleApp2/ConsoleApp2/obj/Debug/netcoreapp2.2/ConsoleApp2.pdb

@@ -1,0 +1,35 @@
+﻿<Properties StartupConfiguration="{85165725-B858-4090-9C78-EF7B9A97D2FB}|Default">
+  <MonoDevelop.Ide.ItemProperties.TwoProduct PreferredExecutionTarget="Test1" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="TwoProduct/ViewController.designer.cs">
+    <Files>
+      <File FileName="TwoProduct/AppDelegate.cs" Line="1" Column="1" />
+      <File FileName="TwoProduct/Main.cs" Line="14" Column="1" />
+      <File FileName="TwoProduct/Info.plist" />
+      <File FileName="TwoProduct/ViewController.designer.cs" Line="46" Column="1" />
+      <File FileName="TwoProduct/WindowController.designer.cs" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="TwoProduct" expanded="True">
+            <Node name="TwoProduct" expanded="True">
+              <Node name="ViewController.cs" expanded="True">
+                <Node name="ViewController.designer.cs" selected="True" />
+              </Node>
+              <Node name="WindowController.cs" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

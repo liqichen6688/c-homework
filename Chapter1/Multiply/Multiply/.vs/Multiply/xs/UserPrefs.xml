@@ -1,0 +1,28 @@
+﻿<Properties StartupConfiguration="{023780DA-D89E-40BD-8A96-DC1790C38824}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Multiply/ViewController.cs">
+    <Files>
+      <File FileName="Multiply/AppDelegate.cs" Line="1" Column="1" />
+      <File FileName="Multiply/Main.cs" Line="1" Column="1" />
+      <File FileName="Multiply/ViewController.cs" Line="1" Column="1" />
+      <File FileName="Multiply/ViewController.designer.cs" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Multiply" expanded="True">
+            <Node name="Multiply" expanded="True">
+              <Node name="ViewController.cs" expanded="True" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.Multiply FirstBuild="True" PreferredExecutionTarget="Test1" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
