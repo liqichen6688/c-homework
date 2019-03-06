@@ -1,0 +1,25 @@
+﻿<Properties StartupConfiguration="{C51AC1CA-2966-4CE2-A323-92432715A842}|Default">
+  <MonoDevelop.Ide.ItemProperties.PrimeNumber PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="PrimeNumber/Program.cs">
+    <Files>
+      <File FileName="PrimeNumber/Program.cs" Line="29" Column="60" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="PrimeNumber" expanded="True">
+            <Node name="PrimeNumber" expanded="True">
+              <Node name="Program.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

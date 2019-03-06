@@ -1,0 +1,6 @@
+/Users/xander/Documents/StudyDocument/CS/C#program/Homework/Chapter2/PrimeNumber/PrimeNumber/bin/Debug/PrimeNumber.exe
+/Users/xander/Documents/StudyDocument/CS/C#program/Homework/Chapter2/PrimeNumber/PrimeNumber/bin/Debug/PrimeNumber.pdb
+/Users/xander/Documents/StudyDocument/CS/C#program/Homework/Chapter2/PrimeNumber/PrimeNumber/obj/x86/Debug/PrimeNumber.csprojAssemblyReference.cache
+/Users/xander/Documents/StudyDocument/CS/C#program/Homework/Chapter2/PrimeNumber/PrimeNumber/obj/x86/Debug/PrimeNumber.csproj.CoreCompileInputs.cache
+/Users/xander/Documents/StudyDocument/CS/C#program/Homework/Chapter2/PrimeNumber/PrimeNumber/obj/x86/Debug/PrimeNumber.exe
+/Users/xander/Documents/StudyDocument/CS/C#program/Homework/Chapter2/PrimeNumber/PrimeNumber/obj/x86/Debug/PrimeNumber.pdb
