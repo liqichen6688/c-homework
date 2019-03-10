@@ -1,0 +1,6 @@
+/Users/xander/Projects/Factory2/Factory2/bin/Debug/Factory2.exe
+/Users/xander/Projects/Factory2/Factory2/bin/Debug/Factory2.pdb
+/Users/xander/Projects/Factory2/Factory2/obj/x86/Debug/Factory2.csprojAssemblyReference.cache
+/Users/xander/Projects/Factory2/Factory2/obj/x86/Debug/Factory2.csproj.CoreCompileInputs.cache
+/Users/xander/Projects/Factory2/Factory2/obj/x86/Debug/Factory2.exe
+/Users/xander/Projects/Factory2/Factory2/obj/x86/Debug/Factory2.pdb
