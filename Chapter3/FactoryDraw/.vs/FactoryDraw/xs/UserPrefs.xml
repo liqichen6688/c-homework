@@ -1,14 +1,13 @@
-﻿<Properties StartupConfiguration="{8D4D1C08-FB43-4794-98F9-255F29DB0EDF}|Default">
-  <MonoDevelop.Ide.ItemProperties.PrimeNumber2 PreferredExecutionTarget="MonoDevelop.Default" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="PrimeNumber2/Program.cs">
+﻿<Properties StartupConfiguration="{C5A2372D-BD26-4E5D-A464-643512F74780}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="FactoryDraw/Program.cs">
     <Files>
-      <File FileName="PrimeNumber2/Program.cs" Line="2" Column="34" />
+      <File FileName="FactoryDraw/Program.cs" Line="1" Column="1" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
-          <Node name="PrimeNumber2" expanded="True">
-            <Node name="PrimeNumber2" expanded="True">
+          <Node name="FactoryDraw" expanded="True">
+            <Node name="FactoryDraw" expanded="True">
               <Node name="Program.cs" selected="True" />
             </Node>
           </Node>
@@ -17,6 +16,7 @@
     </Pads>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.FactoryDraw PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore />

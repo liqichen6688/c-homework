@@ -1,0 +1,6 @@
+/Users/xander/Documents/StudyDocument/CS/C#program/Homework/Chapter3/FactoryDraw/FactoryDraw/bin/Debug/FactoryDraw.exe
+/Users/xander/Documents/StudyDocument/CS/C#program/Homework/Chapter3/FactoryDraw/FactoryDraw/bin/Debug/FactoryDraw.pdb
+/Users/xander/Documents/StudyDocument/CS/C#program/Homework/Chapter3/FactoryDraw/FactoryDraw/obj/x86/Debug/FactoryDraw.csprojAssemblyReference.cache
+/Users/xander/Documents/StudyDocument/CS/C#program/Homework/Chapter3/FactoryDraw/FactoryDraw/obj/x86/Debug/FactoryDraw.csproj.CoreCompileInputs.cache
+/Users/xander/Documents/StudyDocument/CS/C#program/Homework/Chapter3/FactoryDraw/FactoryDraw/obj/x86/Debug/FactoryDraw.exe
+/Users/xander/Documents/StudyDocument/CS/C#program/Homework/Chapter3/FactoryDraw/FactoryDraw/obj/x86/Debug/FactoryDraw.pdb
