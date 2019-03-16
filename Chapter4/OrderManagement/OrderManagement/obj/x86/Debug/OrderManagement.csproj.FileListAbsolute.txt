@@ -1,0 +1,6 @@
+/Users/xander/Documents/StudyDocument/CS/C#program/Homework/Chapter4/OrderManagement/OrderManagement/bin/Debug/OrderManagement.exe
+/Users/xander/Documents/StudyDocument/CS/C#program/Homework/Chapter4/OrderManagement/OrderManagement/bin/Debug/OrderManagement.pdb
+/Users/xander/Documents/StudyDocument/CS/C#program/Homework/Chapter4/OrderManagement/OrderManagement/obj/x86/Debug/OrderManagement.csprojAssemblyReference.cache
+/Users/xander/Documents/StudyDocument/CS/C#program/Homework/Chapter4/OrderManagement/OrderManagement/obj/x86/Debug/OrderManagement.csproj.CoreCompileInputs.cache
+/Users/xander/Documents/StudyDocument/CS/C#program/Homework/Chapter4/OrderManagement/OrderManagement/obj/x86/Debug/OrderManagement.exe
+/Users/xander/Documents/StudyDocument/CS/C#program/Homework/Chapter4/OrderManagement/OrderManagement/obj/x86/Debug/OrderManagement.pdb

@@ -1,0 +1,6 @@
+/Users/xander/Documents/StudyDocument/CS/C#program/Homework/Chapter4/Alarm/Alarm/bin/Debug/Alarm.exe
+/Users/xander/Documents/StudyDocument/CS/C#program/Homework/Chapter4/Alarm/Alarm/bin/Debug/Alarm.pdb
+/Users/xander/Documents/StudyDocument/CS/C#program/Homework/Chapter4/Alarm/Alarm/obj/x86/Debug/Alarm.csprojAssemblyReference.cache
+/Users/xander/Documents/StudyDocument/CS/C#program/Homework/Chapter4/Alarm/Alarm/obj/x86/Debug/Alarm.csproj.CoreCompileInputs.cache
+/Users/xander/Documents/StudyDocument/CS/C#program/Homework/Chapter4/Alarm/Alarm/obj/x86/Debug/Alarm.exe
+/Users/xander/Documents/StudyDocument/CS/C#program/Homework/Chapter4/Alarm/Alarm/obj/x86/Debug/Alarm.pdb
