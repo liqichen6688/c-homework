@@ -1,13 +1,13 @@
-﻿<Properties StartupConfiguration="{57F90F5A-3DD6-49E6-A454-5E804994E741}|Default">
-  <MonoDevelop.Ide.Workbench ActiveDocument="OrderManagement/Program.cs">
+﻿<Properties StartupConfiguration="{321C7522-594D-43B1-97E0-A513717E7A63}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Order2/Program.cs">
     <Files>
-      <File FileName="OrderManagement/Program.cs" Line="1" Column="1" />
+      <File FileName="Order2/Program.cs" Line="194" Column="2" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
-          <Node name="OrderManagement" expanded="True">
-            <Node name="OrderManagement" expanded="True">
+          <Node name="Order2" expanded="True">
+            <Node name="Order2" expanded="True">
               <Node name="Program.cs" selected="True" />
             </Node>
           </Node>
@@ -15,7 +15,7 @@
       </Pad>
     </Pads>
   </MonoDevelop.Ide.Workbench>
-  <MonoDevelop.Ide.ItemProperties.OrderManagement PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.Order2 FirstBuild="True" PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>

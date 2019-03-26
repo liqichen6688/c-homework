@@ -1,0 +1,6 @@
+/Users/xander/Documents/StudyDocument/CS/C#program/Homework/Chapter5/Order2/Order2/bin/Debug/Order2.exe
+/Users/xander/Documents/StudyDocument/CS/C#program/Homework/Chapter5/Order2/Order2/bin/Debug/Order2.pdb
+/Users/xander/Documents/StudyDocument/CS/C#program/Homework/Chapter5/Order2/Order2/obj/x86/Debug/Order2.csprojAssemblyReference.cache
+/Users/xander/Documents/StudyDocument/CS/C#program/Homework/Chapter5/Order2/Order2/obj/x86/Debug/Order2.csproj.CoreCompileInputs.cache
+/Users/xander/Documents/StudyDocument/CS/C#program/Homework/Chapter5/Order2/Order2/obj/x86/Debug/Order2.exe
+/Users/xander/Documents/StudyDocument/CS/C#program/Homework/Chapter5/Order2/Order2/obj/x86/Debug/Order2.pdb
