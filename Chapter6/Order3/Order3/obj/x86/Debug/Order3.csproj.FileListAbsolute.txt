@@ -1,0 +1,6 @@
+/Users/xander/Documents/StudyDocument/CS/C#program/Homework/Chapter6/Order3/Order3/bin/Debug/Order3.exe
+/Users/xander/Documents/StudyDocument/CS/C#program/Homework/Chapter6/Order3/Order3/bin/Debug/Order3.pdb
+/Users/xander/Documents/StudyDocument/CS/C#program/Homework/Chapter6/Order3/Order3/obj/x86/Debug/Order3.csprojAssemblyReference.cache
+/Users/xander/Documents/StudyDocument/CS/C#program/Homework/Chapter6/Order3/Order3/obj/x86/Debug/Order3.csproj.CoreCompileInputs.cache
+/Users/xander/Documents/StudyDocument/CS/C#program/Homework/Chapter6/Order3/Order3/obj/x86/Debug/Order3.exe
+/Users/xander/Documents/StudyDocument/CS/C#program/Homework/Chapter6/Order3/Order3/obj/x86/Debug/Order3.pdb
