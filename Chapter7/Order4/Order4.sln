@@ -1,0 +1,23 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Order4", "Order4\Order4.csproj", "{4838F3FE-D2A9-44F5-9936-1DC2BC861007}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Order4Test", "Order4Test\Order4Test.csproj", "{81B22013-5C58-4B1A-AD03-6CB414AB1AD2}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4838F3FE-D2A9-44F5-9936-1DC2BC861007}.Debug|x86.ActiveCfg = Debug|x86
+		{4838F3FE-D2A9-44F5-9936-1DC2BC861007}.Debug|x86.Build.0 = Debug|x86
+		{4838F3FE-D2A9-44F5-9936-1DC2BC861007}.Release|x86.ActiveCfg = Release|x86
+		{4838F3FE-D2A9-44F5-9936-1DC2BC861007}.Release|x86.Build.0 = Release|x86
+		{81B22013-5C58-4B1A-AD03-6CB414AB1AD2}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{81B22013-5C58-4B1A-AD03-6CB414AB1AD2}.Debug|x86.Build.0 = Debug|Any CPU
+		{81B22013-5C58-4B1A-AD03-6CB414AB1AD2}.Release|x86.ActiveCfg = Release|Any CPU
+		{81B22013-5C58-4B1A-AD03-6CB414AB1AD2}.Release|x86.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

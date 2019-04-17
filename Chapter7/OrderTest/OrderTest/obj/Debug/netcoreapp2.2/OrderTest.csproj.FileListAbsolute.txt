@@ -1,0 +1,4 @@
+/Users/xander/Documents/StudyDocument/CS/C#program/Homework/Chapter7/OrderTest/OrderTest/obj/Debug/netcoreapp2.2/OrderTest.csprojAssemblyReference.cache
+/Users/xander/Documents/StudyDocument/CS/C#program/Homework/Chapter7/OrderTest/OrderTest/obj/Debug/netcoreapp2.2/OrderTest.csproj.CoreCompileInputs.cache
+/Users/xander/Documents/StudyDocument/CS/C#program/Homework/Chapter7/OrderTest/OrderTest/obj/Debug/netcoreapp2.2/OrderTest.AssemblyInfoInputs.cache
+/Users/xander/Documents/StudyDocument/CS/C#program/Homework/Chapter7/OrderTest/OrderTest/obj/Debug/netcoreapp2.2/OrderTest.AssemblyInfo.cs

@@ -1,18 +1,19 @@
 ﻿<Properties StartupConfiguration="{989A52D9-572D-4D3D-A7D5-E2976C3FFD37}|Default">
-  <MonoDevelop.Ide.ItemProperties.Order3 FirstBuild="True" PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.Order3 PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.Workbench ActiveDocument="Order3/Program.cs">
     <Files>
-      <File FileName="Order3/Program.cs" Line="5" Column="2" />
+      <File FileName="Order3/Program.cs" Line="257" Column="13" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Node name="Order3" expanded="True">
-            <Node name="Order3" expanded="True">
-              <Node name="Program.cs" selected="True" />
-            </Node>
+            <Node name="Order3" expanded="True" selected="True" />
           </Node>
         </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
       </Pad>
     </Pads>
   </MonoDevelop.Ide.Workbench>

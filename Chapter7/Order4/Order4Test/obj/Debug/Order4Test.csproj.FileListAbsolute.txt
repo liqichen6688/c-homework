@@ -1,0 +1,11 @@
+/Users/xander/Documents/StudyDocument/CS/C#program/Homework/Chapter7/Order4/Order4Test/bin/Debug/Order4Test.dll
+/Users/xander/Documents/StudyDocument/CS/C#program/Homework/Chapter7/Order4/Order4Test/bin/Debug/Order4Test.pdb
+/Users/xander/Documents/StudyDocument/CS/C#program/Homework/Chapter7/Order4/Order4Test/bin/Debug/nunit.framework.dll
+/Users/xander/Documents/StudyDocument/CS/C#program/Homework/Chapter7/Order4/Order4Test/bin/Debug/Order4.exe
+/Users/xander/Documents/StudyDocument/CS/C#program/Homework/Chapter7/Order4/Order4Test/bin/Debug/Order4.pdb
+/Users/xander/Documents/StudyDocument/CS/C#program/Homework/Chapter7/Order4/Order4Test/bin/Debug/nunit.framework.xml
+/Users/xander/Documents/StudyDocument/CS/C#program/Homework/Chapter7/Order4/Order4Test/obj/Debug/Order4Test.csprojAssemblyReference.cache
+/Users/xander/Documents/StudyDocument/CS/C#program/Homework/Chapter7/Order4/Order4Test/obj/Debug/Order4Test.csproj.CoreCompileInputs.cache
+/Users/xander/Documents/StudyDocument/CS/C#program/Homework/Chapter7/Order4/Order4Test/obj/Debug/Order4Test.csproj.CopyComplete
+/Users/xander/Documents/StudyDocument/CS/C#program/Homework/Chapter7/Order4/Order4Test/obj/Debug/Order4Test.dll
+/Users/xander/Documents/StudyDocument/CS/C#program/Homework/Chapter7/Order4/Order4Test/obj/Debug/Order4Test.pdb

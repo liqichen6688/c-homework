@@ -1,0 +1,31 @@
+﻿<Properties StartupConfiguration="{40807718-FDDD-4AA5-9E43-B329858516A0}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="../Order4/Order4/Program.cs">
+    <Files>
+      <File FileName="../Order4/Order4/Program.cs" Line="90" Column="10" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="OrderTest" expanded="True">
+            <Node name="Order4" expanded="True">
+              <Node name="References" expanded="True" />
+            </Node>
+            <Node name="OrderTest" expanded="True" selected="True" />
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.UnitTesting.TestPad">
+        <State name="__root__">
+          <Node name="OrderTest" expanded="True" selected="True" />
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.OrderTest PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

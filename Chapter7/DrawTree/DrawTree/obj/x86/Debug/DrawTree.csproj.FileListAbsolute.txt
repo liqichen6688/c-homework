@@ -1,0 +1,9 @@
+/Users/xander/Documents/StudyDocument/CS/C#program/Homework/Chapter7/DrawTree/DrawTree/obj/x86/Debug/actool/_PartialAppManifest.items
+/Users/xander/Documents/StudyDocument/CS/C#program/Homework/Chapter7/DrawTree/DrawTree/obj/x86/Debug/actool/_BundleResourceWithLogicalName.items
+/Users/xander/Documents/StudyDocument/CS/C#program/Homework/Chapter7/DrawTree/DrawTree/obj/x86/Debug/ibtool-manifests/Main.storyboardc
+/Users/xander/Documents/StudyDocument/CS/C#program/Homework/Chapter7/DrawTree/DrawTree/obj/x86/Debug/ibtool/Main.storyboardc/Info.plist
+/Users/xander/Documents/StudyDocument/CS/C#program/Homework/Chapter7/DrawTree/DrawTree/obj/x86/Debug/ibtool/Main.storyboardc/MainMenu.nib
+/Users/xander/Documents/StudyDocument/CS/C#program/Homework/Chapter7/DrawTree/DrawTree/obj/x86/Debug/ibtool/Main.storyboardc/NSWindowController-B8D-0N-5wS.nib
+/Users/xander/Documents/StudyDocument/CS/C#program/Homework/Chapter7/DrawTree/DrawTree/obj/x86/Debug/ibtool/Main.storyboardc/XfG-lQ-9wD-view-m2S-Jp-Qdl.nib
+/Users/xander/Documents/StudyDocument/CS/C#program/Homework/Chapter7/DrawTree/DrawTree/obj/x86/Debug/DrawTree.csprojAssemblyReference.cache
+/Users/xander/Documents/StudyDocument/CS/C#program/Homework/Chapter7/DrawTree/DrawTree/obj/x86/Debug/DrawTree.csproj.CoreCompileInputs.cache
