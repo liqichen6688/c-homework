@@ -19,16 +19,37 @@ namespace Order4
                 switch (lookIndex)
                 {
                     case 1:
-                        oneService.AddOrder();
+                        Console.WriteLine("请输入新的订单编号，名字,客户名称以及金额");
+                        string inid = Console.ReadLine();
+                        string inname = Console.ReadLine();
+                        string inclient = Console.ReadLine();
+                        double money = Convert.ToDouble(Console.ReadLine());
+                        oneService.AddOrder(inid, inname, inclient, money);
                         break;
                     case 2:
-                        oneService.LookForOrder();
+                        Console.WriteLine("1:按编号查询，2：按名字查询，3：按客户名称查询");
+                        int lookIndex2 = Convert.ToInt16(Console.ReadLine());
+                        Console.WriteLine("输入查找数据");
+                        string lookContent = Console.ReadLine();
+                        oneService.LookForOrder(lookIndex2, lookContent);
                         break;
                     case 3:
-                        oneService.ModifyOrder();
+                        Console.WriteLine("请输入要修改订单信息");
+                        Console.WriteLine("1:按编号查询，2：按名字查询，3：按客户名称查询");
+                        int lookIndex3 = Convert.ToInt16(Console.ReadLine());
+                        Console.WriteLine("输入查找数据");
+                        string lookContent3 = Console.ReadLine();
+                        IEnumerable<Order> LookList3 = oneService.LookForOrder(lookIndex3, lookContent3);
+                        oneService.ModifyOrder(LookList3);
                         break;
                     case 4:
-                        oneService.Delete();
+                        Console.WriteLine("请输入要删除订单信息");
+                        Console.WriteLine("1:按编号查询，2：按名字查询，3：按客户名称查询");
+                        int lookIndex4 = Convert.ToInt16(Console.ReadLine());
+                        Console.WriteLine("输入查找数据");
+                        string lookContent4 = Console.ReadLine();
+                        IEnumerable<Order> LookLis4 = oneService.LookForOrder(lookIndex4, lookContent4);
+                        oneService.Delete(LookLis4);
                         break;
                     case 5:
                         oneService.SortOnMoney();
@@ -102,13 +123,8 @@ namespace Order4
     {
         List<Order> Orderlist = new List<Order>();
         IEnumerable<Order> found = new List<Order>();
-        public void AddOrder()
+        public void AddOrder(string inid, string inname, string inclient, double money)
         {
-            Console.WriteLine("请输入新的订单编号，名字,客户名称以及金额");
-            string inid = Console.ReadLine();
-            string inname = Console.ReadLine();
-            string inclient = Console.ReadLine();
-            double money = Convert.ToDouble(Console.ReadLine());
             Order newOrder = new Order(inid, inname, inclient, money);
             foreach (Order old in Orderlist)
             {
@@ -129,13 +145,8 @@ namespace Order4
                 Console.WriteLine(item);
             }
         }
-        public IEnumerable<Order> LookForOrder()
+        public IEnumerable<Order> LookForOrder(int lookIndex, string lookContent)
         {
-            Console.WriteLine("1:按编号查询，2：按名字查询，3：按客户名称查询");
-            int lookIndex = Convert.ToInt16(Console.ReadLine());
-            List<Order> LookList = new List<Order>();
-            Console.WriteLine("输入查找数据");
-            string lookContent = Console.ReadLine();
             IEnumerable<Order> found = new List<Order>();
             try
             {
@@ -173,10 +184,8 @@ namespace Order4
 
         }
 
-        public void ModifyOrder()
+        public void ModifyOrder(IEnumerable<Order> LookList)
         {
-            Console.WriteLine("请输入要修改订单信息");
-            IEnumerable<Order> LookList = this.LookForOrder();
             try
             {
                 foreach (Order order in LookList)
@@ -213,10 +222,8 @@ namespace Order4
             }
         }
 
-        public void Delete()
+        public void Delete(IEnumerable<Order> LookList)
         {
-            Console.WriteLine("请输入要删除订单信息");
-            IEnumerable<Order> LookList = this.LookForOrder();
             try
             {
                 foreach (Order order in LookList)

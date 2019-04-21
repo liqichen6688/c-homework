@@ -1,0 +1,8 @@
+Entering thread summarizer from 4512540096
+Entering thread summarizer from 123145420173312
+Self-reporting for thread 123145420173312. Registered summarizing thread right now is 123145420173312
+Waiting for signalled thread 123145420173312 to collect stacktrace. Status: MONO_SUMMARY_EMPTY
+Entering thread summarizer from 123145422282752
+Self-reporting for thread 123145422282752. Registered summarizing thread right now is 123145422282752
+Waiting for signalled thread 123145422282752 to collect stacktrace. Status: MONO_SUMMARY_EMPTY
+Self-reporting for thread 4512540096. Registered summarizing thread right now is 4512540096

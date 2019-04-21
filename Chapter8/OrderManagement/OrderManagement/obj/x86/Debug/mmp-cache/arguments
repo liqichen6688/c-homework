@@ -1,0 +1,20 @@
+# Version: 5.2.1.15 (d15-9: d60abd198)
+# [first argument, ignore] # /Library/Frameworks/Xamarin.Mac.framework/Versions/5.2.1.15/lib/mmp/mmp.exe
+/Library/Frameworks/Xamarin.Mac.framework/Versions/5.2.1.15/lib/mmp/mmp.exe \
+	/verbose \
+	/debug \
+	/output:/Users/xander/Documents/StudyDocument/CS/C#program/Homework/Chapter8/OrderManagement/OrderManagement/bin/Debug/ \
+	/name:OrderManagement \
+	'/profile:Xamarin.Mac,Version=v2.0,Profile=Mobile' \
+	/arch:x86_64 \
+	--http-message-handler=HttpClientHandler \
+	/minos=10.14 \
+	/nolink \
+	/assembly:/Library/Frameworks/Xamarin.Mac.framework/Versions/Current/lib/mono/Xamarin.Mac/mscorlib.dll \
+	/assembly:/Library/Frameworks/Xamarin.Mac.framework/Versions/Current/lib/mono/Xamarin.Mac/System.Core.dll \
+	/assembly:/Library/Frameworks/Xamarin.Mac.framework/Versions/Current/lib/mono/Xamarin.Mac/System.dll \
+	/assembly:/Library/Frameworks/Xamarin.Mac.framework/Versions/Current/lib/mono/Xamarin.Mac/Xamarin.Mac.dll \
+	/root-assembly:/Users/xander/Documents/StudyDocument/CS/C#program/Homework/Chapter8/OrderManagement/OrderManagement/bin/Debug/OrderManagement.exe \
+	/sdkroot:/Applications/Xcode.app/Contents/Developer \
+	--cache:/Users/xander/Documents/StudyDocument/CS/C#program/Homework/Chapter8/OrderManagement/OrderManagement/obj/x86/Debug/mmp-cache \
+	@/Users/xander/Documents/StudyDocument/CS/C#program/Homework/Chapter8/OrderManagement/OrderManagement/obj/x86/Debug/response-file.rsp \

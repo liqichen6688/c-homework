@@ -1,0 +1,13 @@
+/Users/xander/Documents/StudyDocument/CS/C#program/Homework/Chapter8/OrderManagement/OrderManagement/bin/Debug/OrderManagement.exe
+/Users/xander/Documents/StudyDocument/CS/C#program/Homework/Chapter8/OrderManagement/OrderManagement/bin/Debug/OrderManagement.pdb
+/Users/xander/Documents/StudyDocument/CS/C#program/Homework/Chapter8/OrderManagement/OrderManagement/obj/x86/Debug/actool/_PartialAppManifest.items
+/Users/xander/Documents/StudyDocument/CS/C#program/Homework/Chapter8/OrderManagement/OrderManagement/obj/x86/Debug/actool/_BundleResourceWithLogicalName.items
+/Users/xander/Documents/StudyDocument/CS/C#program/Homework/Chapter8/OrderManagement/OrderManagement/obj/x86/Debug/ibtool-manifests/Main.storyboardc
+/Users/xander/Documents/StudyDocument/CS/C#program/Homework/Chapter8/OrderManagement/OrderManagement/obj/x86/Debug/ibtool/Main.storyboardc/Info.plist
+/Users/xander/Documents/StudyDocument/CS/C#program/Homework/Chapter8/OrderManagement/OrderManagement/obj/x86/Debug/ibtool/Main.storyboardc/MainMenu.nib
+/Users/xander/Documents/StudyDocument/CS/C#program/Homework/Chapter8/OrderManagement/OrderManagement/obj/x86/Debug/ibtool/Main.storyboardc/NSWindowController-B8D-0N-5wS.nib
+/Users/xander/Documents/StudyDocument/CS/C#program/Homework/Chapter8/OrderManagement/OrderManagement/obj/x86/Debug/OrderManagement.csprojAssemblyReference.cache
+/Users/xander/Documents/StudyDocument/CS/C#program/Homework/Chapter8/OrderManagement/OrderManagement/obj/x86/Debug/OrderManagement.csproj.CoreCompileInputs.cache
+/Users/xander/Documents/StudyDocument/CS/C#program/Homework/Chapter8/OrderManagement/OrderManagement/obj/x86/Debug/OrderManagement.exe
+/Users/xander/Documents/StudyDocument/CS/C#program/Homework/Chapter8/OrderManagement/OrderManagement/obj/x86/Debug/OrderManagement.pdb
+/Users/xander/Documents/StudyDocument/CS/C#program/Homework/Chapter8/OrderManagement/OrderManagement/obj/x86/Debug/ibtool/Main.storyboardc/tg1-iM-a2p-view-XiX-Gg-ECw.nib

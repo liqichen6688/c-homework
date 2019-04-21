@@ -1,0 +1,31 @@
+﻿<Properties StartupConfiguration="{A2C91AFA-CF78-48CF-9DF8-5CF6427678E2}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="OrderManagement/TableViewController.cs">
+    <Files>
+      <File FileName="OrderManagement/AppDelegate.cs" Line="1" Column="1" />
+      <File FileName="OrderManagement/ViewController.cs" Line="24" Column="34" />
+      <File FileName="OrderManagement/ViewController.designer.cs" Line="1" Column="1" />
+      <File FileName="OrderManagement/Main.cs" Line="85" Column="18" />
+      <File FileName="OrderManagement/TableViewController.cs" Line="12" Column="9" />
+      <File FileName="OrderManagement/TableViewController.designer.cs" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="OrderManagement" expanded="True">
+            <Node name="OrderManagement" expanded="True">
+              <Node name="TableViewController.cs" selected="True" />
+              <Node name="ViewController.cs" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.OrderManagement PreferredExecutionTarget="Test1" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

@@ -1,24 +1,17 @@
 ﻿<Properties StartupConfiguration="{4838F3FE-D2A9-44F5-9936-1DC2BC861007}|Default">
-  <MonoDevelop.Ide.Workbench ActiveDocument="Order4Test/Test.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Order4/Program.cs">
     <Files>
-      <File FileName="Order4/Program.cs" Line="124" Column="23" />
-      <File FileName="Order4Test/Test.cs" Line="28" Column="9" />
+      <File FileName="Order4/Program.cs" Line="59" Column="31" />
+      <File FileName="Order4Test/Test.cs" Line="28" Column="1" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Node name="Order4" expanded="True">
-            <Node name="Order4" expanded="True" />
-            <Node name="Order4Test" expanded="True">
-              <Node name="Test.cs" selected="True" />
+            <Node name="Order4" expanded="True">
+              <Node name="Program.cs" selected="True" />
             </Node>
-          </Node>
-        </State>
-      </Pad>
-      <Pad Id="MonoDevelop.UnitTesting.TestPad">
-        <State name="__root__">
-          <Node name="Order4" expanded="True">
-            <Node name="Order4Test" selected="True" />
+            <Node name="Order4Test" expanded="True" />
           </Node>
         </State>
       </Pad>

@@ -1,0 +1,17 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OrderManage", "OrderManage\OrderManage.csproj", "{EEE0E71A-D402-4379-B870-6A63D6FA2B88}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EEE0E71A-D402-4379-B870-6A63D6FA2B88}.Debug|x86.ActiveCfg = Debug|x86
+		{EEE0E71A-D402-4379-B870-6A63D6FA2B88}.Debug|x86.Build.0 = Debug|x86
+		{EEE0E71A-D402-4379-B870-6A63D6FA2B88}.Release|x86.ActiveCfg = Release|x86
+		{EEE0E71A-D402-4379-B870-6A63D6FA2B88}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+EndGlobal

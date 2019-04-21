@@ -1,0 +1,205 @@
+2019-04-20 14:45:33.656 OrderManagement[34076:1715725] Unknown class TableViewController in Interface Builder file at path /Users/xander/Documents/StudyDocument/CS/C#program/Homework/Chapter8/OrderManagement/OrderManagement/bin/Debug/OrderManagement.app/Contents/Resources/Main.storyboardc/NSWindowController-B8D-0N-5wS.nib.
+2019-04-20 14:45:33.687 OrderManagement[34076:1715725] *** Terminating app due to uncaught exception 'NSUnknownKeyException', reason: '[<NSViewController 0x600002510bd0> valueForUndefinedKey:]: this class is not key value coding-compliant for the key orderModelArray.'
+*** First throw call stack:
+(
+	0   CoreFoundation                      0x00007fff506c6cf9 __exceptionPreprocess + 256
+	1   libobjc.A.dylib                     0x00007fff7b25aa17 objc_exception_throw + 48
+	2   CoreFoundation                      0x00007fff506e0859 -[NSException raise] + 9
+	3   Foundation                          0x00007fff529e538e -[NSObject(NSKeyValueCoding) valueForUndefinedKey:] + 226
+	4   Foundation                          0x00007fff52871a45 -[NSObject(NSKeyValueCoding) valueForKey:] + 281
+	5   Foundation                          0x00007fff5286f36b -[NSObject(NSKeyValueCoding) valueForKeyPath:] + 260
+	6   AppKit                              0x00007fff4dcc5e56 -[NSBinder valueForBinding:resolveMarkersToPlaceholders:] + 155
+	7   AppKit                              0x00007fff4df55d8f -[NSArrayDetailBinder _refreshDetailContentInBackground:] + 241
+	8   AppKit                              0x00007fff4dcbdf16 -[NSObject(NSKeyValueBindingCreation) bind:toObject:withKeyPath:options:] + 780
+	9   AppKit                              0x00007fff4dc8e487 -[NSIBObjectData nibInstantiateWithOwner:options:topLevelObjects:] + 1436
+	10  AppKit                              0x00007fff4de1f7ff -[NSNib _instantiateNibWithExternalNameTable:options:] + 679
+	11  AppKit                              0x00007fff4de1f45b -[NSNib _instantiateWithOwner:options:topLevelObjects:] + 136
+	12  AppKit                              0x00007fff4e4edd97 -[NSStoryboard instantiateControllerWithIdentifier:] + 236
+	13  AppKit                              0x00007fff4dc7f3a5 NSApplicationMain + 702
+	14  ???                                 0x000000011163d7ce 0x0 + 4586723278
+	15  ???                                 0x000000011163d4fb 0x0 + 4586722555
+	16  OrderManagement                     0x000000010ba7b501 mono_jit_runtime_invoke + 1441
+	17  OrderManagement                     0x000000010bb76ebf mono_runtime_invoke_checked + 127
+	18  OrderManagement                     0x000000010bb7dd3e mono_runtime_exec_main_checked + 110
+	19  OrderManagement                     0x000000010b9da0b9 mono_jit_exec + 297
+	20  OrderManagement                     0x000000010b9dd0b4 mono_main + 11156
+	21  OrderManagement                     0x000000010b97a349 xamarin_main + 1305
+	22  OrderManagement                     0x000000010b97b314 main + 36
+	23  libdyld.dylib                       0x00007fff7ca883d5 start + 1
+)
+libc++abi.dylib: terminating with uncaught exception of type NSException
+Stacktrace:
+
+  at <unknown> <0xffffffff>
+  at (wrapper managed-to-native) AppKit.NSApplication.NSApplicationMain (int,string[]) [0x0005a] in <73eaee54ce704ec1b61d1683b19cbb01>:0
+  at AppKit.NSApplication.Main (string[]) [0x00040] in /Library/Frameworks/Xamarin.Mac.framework/Versions/5.2.1.15/src/Xamarin.Mac/AppKit/NSApplication.cs:100
+  at OrderManagement.MainClass.Main (string[]) [0x00007] in /Users/xander/Documents/StudyDocument/CS/C#program/Homework/Chapter8/OrderManagement/OrderManagement/Main.cs:12
+  at (wrapper runtime-invoke) <Module>.runtime_invoke_void_object (object,intptr,intptr,intptr) [0x00051] in <fa2a2c94b4674ec9a7388064dfd20ebe>:0
+
+Native stacktrace:
+
+	0   OrderManagement                     0x000000010ba67208 mono_handle_native_crash + 264
+	1   libsystem_platform.dylib            0x00007fff7cc6db5d _sigtramp + 29
+	2   libc++abi.dylib                     0x00007fff79af39c5 GCC_except_table51 + 261
+	3   libsystem_c.dylib                   0x00007fff7cb2d6a6 abort + 127
+	4   libc++abi.dylib                     0x00007fff79ae6641 __cxa_bad_cast + 0
+	5   libc++abi.dylib                     0x00007fff79ae67df _ZL26default_unexpected_handlerv + 0
+	6   libobjc.A.dylib                     0x00007fff7b25cee3 _ZL15_objc_terminatev + 97
+	7   libc++abi.dylib                     0x00007fff79af219e _ZSt11__terminatePFvvE + 8
+	8   libc++abi.dylib                     0x00007fff79af1f86 __cxa_get_exception_ptr + 0
+	9   libc++abi.dylib                     0x00007fff79ae4f99 __cxa_get_globals + 0
+	10  libobjc.A.dylib                     0x00007fff7b25ab51 objc_exception_throw + 362
+	11  CoreFoundation                      0x00007fff506e0859 -[NSException raise] + 9
+	12  Foundation                          0x00007fff529e538e -[NSObject(NSKeyValueCoding) valueForUndefinedKey:] + 226
+	13  Foundation                          0x00007fff52871a45 -[NSObject(NSKeyValueCoding) valueForKey:] + 281
+	14  Foundation                          0x00007fff5286f36b -[NSObject(NSKeyValueCoding) valueForKeyPath:] + 260
+	15  AppKit                              0x00007fff4dcc5e56 -[NSBinder valueForBinding:resolveMarkersToPlaceholders:] + 155
+	16  AppKit                              0x00007fff4df55d8f -[NSArrayDetailBinder _refreshDetailContentInBackground:] + 241
+	17  AppKit                              0x00007fff4dcbdf16 -[NSObject(NSKeyValueBindingCreation) bind:toObject:withKeyPath:options:] + 780
+	18  AppKit                              0x00007fff4dc8e487 -[NSIBObjectData nibInstantiateWithOwner:options:topLevelObjects:] + 1436
+	19  AppKit                              0x00007fff4de1f7ff -[NSNib _instantiateNibWithExternalNameTable:options:] + 679
+	20  AppKit                              0x00007fff4de1f45b -[NSNib _instantiateWithOwner:options:topLevelObjects:] + 136
+	21  AppKit                              0x00007fff4e4edd97 -[NSStoryboard instantiateControllerWithIdentifier:] + 236
+	22  AppKit                              0x00007fff4dc7f3a5 NSApplicationMain + 702
+	23  ???                                 0x000000011163d7ce 0x0 + 4586723278
+	24  ???                                 0x000000011163d4fb 0x0 + 4586722555
+	25  OrderManagement                     0x000000010ba7b501 mono_jit_runtime_invoke + 1441
+	26  OrderManagement                     0x000000010bb76ebf mono_runtime_invoke_checked + 127
+	27  OrderManagement                     0x000000010bb7dd3e mono_runtime_exec_main_checked + 110
+	28  OrderManagement                     0x000000010b9da0b9 mono_jit_exec + 297
+	29  OrderManagement                     0x000000010b9dd0b4 mono_main + 11156
+	30  OrderManagement                     0x000000010b97a349 xamarin_main + 1305
+	31  OrderManagement                     0x000000010b97b314 main + 36
+	32  libdyld.dylib                       0x00007fff7ca883d5 start + 1
+
+Debug info from gdb:
+
+(lldb) command source -s 0 '/tmp/mono-gdb-commands.WfnZ48'
+Executing commands in '/tmp/mono-gdb-commands.WfnZ48'.
+(lldb) process attach --pid 34076
+Process 34076 stopped
+* thread #1, name = 'tid_307', queue = 'com.apple.main-thread', stop reason = signal SIGSTOP
+    frame #0: 0x00007fff7cbc2356 libsystem_kernel.dylib`__wait4 + 10
+libsystem_kernel.dylib`__wait4:
+->  0x7fff7cbc2356 <+10>: jae    0x7fff7cbc2360            ; <+20>
+    0x7fff7cbc2358 <+12>: movq   %rax, %rdi
+    0x7fff7cbc235b <+15>: jmp    0x7fff7cbbd421            ; cerror
+    0x7fff7cbc2360 <+20>: retq   
+Target 0: (OrderManagement) stopped.
+
+Executable module set to "/Users/xander/Documents/StudyDocument/CS/C#program/Homework/Chapter8/OrderManagement/OrderManagement/bin/Debug/OrderManagement.app/Contents/MacOS/OrderManagement".
+Architecture set to: x86_64h-apple-macosx-.
+(lldb) thread list
+Process 34076 stopped
+* thread #1: tid = 0x1a2e0d, 0x00007fff7cbc2356 libsystem_kernel.dylib`__wait4 + 10, name = 'tid_307', queue = 'com.apple.main-thread', stop reason = signal SIGSTOP
+  thread #2: tid = 0x1a2e15, 0x00007fff7cbbebfe libsystem_kernel.dylib`__workq_kernreturn + 10
+  thread #3: tid = 0x1a2e17, 0x00007fff7cbbebfe libsystem_kernel.dylib`__workq_kernreturn + 10
+  thread #4: tid = 0x1a2e1a, 0x00007fff7cbc086a libsystem_kernel.dylib`__psynch_cvwait + 10, name = 'SGen worker'
+  thread #5: tid = 0x1a2e1e, 0x00007fff7cbc0f32 libsystem_kernel.dylib`__semwait_signal + 10, name = 'Finalizer'
+  thread #6: tid = 0x1a2e1f, 0x00007fff7cbc0f32 libsystem_kernel.dylib`__semwait_signal + 10, name = 'Debugger agent'
+  thread #7: tid = 0x1a2e28, 0x00007fff7cbbebfe libsystem_kernel.dylib`__workq_kernreturn + 10
+  thread #8: tid = 0x1a2e2a, 0x00007fff7cbbebfe libsystem_kernel.dylib`__workq_kernreturn + 10
+(lldb) thread backtrace all
+* thread #1, name = 'tid_307', queue = 'com.apple.main-thread', stop reason = signal SIGSTOP
+  * frame #0: 0x00007fff7cbc2356 libsystem_kernel.dylib`__wait4 + 10
+    frame #1: 0x000000010ba67321 OrderManagement`mono_handle_native_crash(signal="SIGABRT", ctx=0x00007ffee42bcde0, info=<unavailable>) at mini-exceptions.c:3065:3 [opt]
+    frame #2: 0x00007fff7cc6db5d libsystem_platform.dylib`_sigtramp + 29
+    frame #3: 0x00007fff7cbc32c7 libsystem_kernel.dylib`__pthread_kill + 11
+    frame #4: 0x00007fff7cc78bf1 libsystem_pthread.dylib`pthread_kill + 284
+    frame #5: 0x00007fff7cb2d6a6 libsystem_c.dylib`abort + 127
+    frame #6: 0x00007fff79ae6641 libc++abi.dylib`abort_message + 231
+    frame #7: 0x00007fff79ae67df libc++abi.dylib`default_terminate_handler() + 267
+    frame #8: 0x00007fff7b25cee3 libobjc.A.dylib`_objc_terminate() + 97
+    frame #9: 0x00007fff79af219e libc++abi.dylib`std::__terminate(void (*)()) + 8
+    frame #10: 0x00007fff79af1f86 libc++abi.dylib`__cxxabiv1::failed_throw(__cxxabiv1::__cxa_exception*) + 27
+    frame #11: 0x00007fff79ae4f99 libc++abi.dylib`__cxa_throw + 113
+    frame #12: 0x00007fff7b25ab51 libobjc.A.dylib`objc_exception_throw + 362
+    frame #13: 0x00007fff506e0859 CoreFoundation`-[NSException raise] + 9
+    frame #14: 0x00007fff529e538e Foundation`-[NSObject(NSKeyValueCoding) valueForUndefinedKey:] + 226
+    frame #15: 0x00007fff52871a45 Foundation`-[NSObject(NSKeyValueCoding) valueForKey:] + 281
+    frame #16: 0x00007fff5286f36b Foundation`-[NSObject(NSKeyValueCoding) valueForKeyPath:] + 260
+    frame #17: 0x00007fff4dcc5e56 AppKit`-[NSBinder valueForBinding:resolveMarkersToPlaceholders:] + 155
+    frame #18: 0x00007fff4df55d8f AppKit`-[NSArrayDetailBinder _refreshDetailContentInBackground:] + 241
+    frame #19: 0x00007fff4dcbdf16 AppKit`-[NSObject(NSKeyValueBindingCreation) bind:toObject:withKeyPath:options:] + 780
+    frame #20: 0x00007fff4dc8e487 AppKit`-[NSIBObjectData nibInstantiateWithOwner:options:topLevelObjects:] + 1436
+    frame #21: 0x00007fff4de1f7ff AppKit`-[NSNib _instantiateNibWithExternalNameTable:options:] + 679
+    frame #22: 0x00007fff4de1f45b AppKit`-[NSNib _instantiateWithOwner:options:topLevelObjects:] + 136
+    frame #23: 0x00007fff4e4edd97 AppKit`-[NSStoryboard instantiateControllerWithIdentifier:] + 236
+    frame #24: 0x00007fff4dc7f3a5 AppKit`NSApplicationMain + 702
+    frame #25: 0x000000011163d7ce
+    frame #26: 0x000000011163d4fb
+    frame #27: 0x000000010ba7b501 OrderManagement`mono_jit_runtime_invoke(method=<unavailable>, obj=<unavailable>, params=0x000000010c8003e8, exc=<unavailable>, error=<unavailable>) at mini-runtime.c:3074:12 [opt]
+    frame #28: 0x000000010bb76ebf OrderManagement`mono_runtime_invoke_checked [inlined] do_runtime_invoke(method=<unavailable>, obj=<unavailable>, params=<unavailable>, exc=<unavailable>, error=<unavailable>) at object.c:2942:11 [opt]
+    frame #29: 0x000000010bb76e88 OrderManagement`mono_runtime_invoke_checked(method=0x00007fbc634014c8, obj=0x0000000000000000, params=0x00007ffee42bf078, error=0x00007ffee42bf0b8) at object.c:3095 [opt]
+    frame #30: 0x000000010bb7dd3e OrderManagement`mono_runtime_exec_main_checked [inlined] do_exec_main_checked(method=0x00007fbc634014c8, args=<unavailable>, error=0x00007ffee42bf0b8) at object.c:0 [opt]
+    frame #31: 0x000000010bb7dd0a OrderManagement`mono_runtime_exec_main_checked(method=0x00007fbc634014c8, args=<unavailable>, error=0x00007ffee42bf0b8) at object.c:4949 [opt]
+    frame #32: 0x000000010b9da0b9 OrderManagement`mono_jit_exec(domain=<unavailable>, assembly=<unavailable>, argc=2, argv=0x0000600001b68820) at driver.g.c:1211:13 [opt]
+    frame #33: 0x000000010b9dd0b4 OrderManagement`mono_main [inlined] main_thread_handler at driver.g.c:1288:3 [opt]
+    frame #34: 0x000000010b9dd07e OrderManagement`mono_main(argc=6, argv=<unavailable>) at driver.g.c:2430 [opt]
+    frame #35: 0x000000010b97a349 OrderManagement`::xamarin_main(argc=2, argv=0x00007ffee42bf448, launch_mode=XamarinLaunchModeApp) at launcher.m:661:9
+    frame #36: 0x000000010b97b314 OrderManagement`main(argc=2, argv=0x00007ffee42bf448) at launcher.m:679:9
+    frame #37: 0x00007fff7ca883d5 libdyld.dylib`start + 1
+    frame #38: 0x00007fff7ca883d5 libdyld.dylib`start + 1
+  thread #2
+    frame #0: 0x00007fff7cc753f0 libsystem_pthread.dylib`start_wqthread
+  thread #3
+    frame #0: 0x00007fff7cbbebfe libsystem_kernel.dylib`__workq_kernreturn + 10
+    frame #1: 0x00007fff7cc75636 libsystem_pthread.dylib`_pthread_wqthread + 458
+    frame #2: 0x00007fff7cc753fd libsystem_pthread.dylib`start_wqthread + 13
+  thread #4, name = 'SGen worker'
+    frame #0: 0x00007fff7cbc086a libsystem_kernel.dylib`__psynch_cvwait + 10
+    frame #1: 0x00007fff7cc7956e libsystem_pthread.dylib`_pthread_cond_wait + 722
+    frame #2: 0x000000010bc3f763 OrderManagement`thread_func [inlined] mono_os_cond_wait(cond=<unavailable>, mutex=<unavailable>) at mono-os-mutex.h:173:8 [opt]
+    frame #3: 0x000000010bc3f750 OrderManagement`thread_func at sgen-thread-pool.c:165 [opt]
+    frame #4: 0x000000010bc3f73d OrderManagement`thread_func(data=0x0000000000000000) at sgen-thread-pool.c:196 [opt]
+    frame #5: 0x00007fff7cc762eb libsystem_pthread.dylib`_pthread_body + 126
+    frame #6: 0x00007fff7cc79249 libsystem_pthread.dylib`_pthread_start + 66
+    frame #7: 0x00007fff7cc7540d libsystem_pthread.dylib`thread_start + 13
+  thread #5, name = 'Finalizer'
+    frame #0: 0x00007fff7cbc0f32 libsystem_kernel.dylib`__semwait_signal + 10
+    frame #1: 0x00007fff7cb4c914 libsystem_c.dylib`nanosleep + 199
+    frame #2: 0x00007fff7cb4c776 libsystem_c.dylib`sleep + 41
+    frame #3: 0x000000010bbcd19a OrderManagement`mono_threads_summarize(ctx=0x0000700007066660, out=<unavailable>, hashes=<unavailable>) at threads.c:5924:3 [opt]
+    frame #4: 0x000000010ba71b65 OrderManagement`sigterm_signal_handler(_dummy=15, _info=0x0000700007066c58, context=0x0000700007066cc0) at mini-posix.c:232:7 [opt]
+    frame #5: 0x00007fff7cc6db5d libsystem_platform.dylib`_sigtramp + 29
+    frame #6: 0x00007fff7cbbd267 libsystem_kernel.dylib`semaphore_wait_trap + 11
+    frame #7: 0x000000010bb135f5 OrderManagement`finalizer_thread [inlined] mono_os_sem_wait(flags=MONO_SEM_FLAGS_ALERTABLE) at mono-os-semaphore.h:90:8 [opt]
+    frame #8: 0x000000010bb135ea OrderManagement`finalizer_thread at mono-coop-semaphore.h:43 [opt]
+    frame #9: 0x000000010bb135de OrderManagement`finalizer_thread(unused=<unavailable>) at gc.c:903 [opt]
+    frame #10: 0x000000010bbcd599 OrderManagement`start_wrapper_internal(start_info=<unavailable>, stack_ptr=<unavailable>) at threads.c:1098:3 [opt]
+    frame #11: 0x000000010bbcd3f7 OrderManagement`start_wrapper(data=3 key/value pairs) at threads.c:1158:8 [opt]
+    frame #12: 0x00007fff7cc762eb libsystem_pthread.dylib`_pthread_body + 126
+    frame #13: 0x00007fff7cc79249 libsystem_pthread.dylib`_pthread_start + 66
+    frame #14: 0x00007fff7cc7540d libsystem_pthread.dylib`thread_start + 13
+  thread #6, name = 'Debugger agent'
+    frame #0: 0x00007fff7cbc0f32 libsystem_kernel.dylib`__semwait_signal + 10
+    frame #1: 0x00007fff7cb4c914 libsystem_c.dylib`nanosleep + 199
+    frame #2: 0x00007fff7cb4c776 libsystem_c.dylib`sleep + 41
+    frame #3: 0x000000010bbcd19a OrderManagement`mono_threads_summarize(ctx=0x0000700007269330, out=<unavailable>, hashes=<unavailable>) at threads.c:5924:3 [opt]
+    frame #4: 0x000000010ba71b65 OrderManagement`sigterm_signal_handler(_dummy=15, _info=0x0000700007269928, context=0x0000700007269990) at mini-posix.c:232:7 [opt]
+    frame #5: 0x00007fff7cc6db5d libsystem_platform.dylib`_sigtramp + 29
+    frame #6: 0x00007fff7cbc0473 libsystem_kernel.dylib`__recvfrom + 11
+    frame #7: 0x000000010b9cebde OrderManagement`socket_transport_recv(buf=0x0000700007269de5, len=11) at debugger-agent.c:1159:9 [opt]
+    frame #8: 0x000000010b9b9573 OrderManagement`debugger_thread [inlined] transport_recv(len=11) at debugger-agent.c:1569:9 [opt]
+    frame #9: 0x000000010b9b955f OrderManagement`debugger_thread(arg=<unavailable>) at debugger-agent.c:10626 [opt]
+    frame #10: 0x000000010bbcd599 OrderManagement`start_wrapper_internal(start_info=<unavailable>, stack_ptr=<unavailable>) at threads.c:1098:3 [opt]
+    frame #11: 0x000000010bbcd3f7 OrderManagement`start_wrapper(data=0x0000600001b70bc0) at threads.c:1158:8 [opt]
+    frame #12: 0x00007fff7cc762eb libsystem_pthread.dylib`_pthread_body + 126
+    frame #13: 0x00007fff7cc79249 libsystem_pthread.dylib`_pthread_start + 66
+    frame #14: 0x00007fff7cc7540d libsystem_pthread.dylib`thread_start + 13
+  thread #7
+    frame #0: 0x00007fff7cc753f0 libsystem_pthread.dylib`start_wqthread
+  thread #8
+    frame #0: 0x00007fff7cbbebfe libsystem_kernel.dylib`__workq_kernreturn + 10
+    frame #1: 0x00007fff7cc756e6 libsystem_pthread.dylib`_pthread_wqthread + 634
+    frame #2: 0x00007fff7cc753fd libsystem_pthread.dylib`start_wqthread + 13
+(lldb) detach
+
+=================================================================
+Got a SIGABRT while executing native code. This usually indicates
+a fatal error in the mono runtime or one of the native libraries 
+used by your application.
+=================================================================
+
+Process 34076 detached
+(lldb) quit
