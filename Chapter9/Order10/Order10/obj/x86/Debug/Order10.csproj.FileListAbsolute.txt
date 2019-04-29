@@ -1,0 +1,11 @@
+/Users/xander/Documents/StudyDocument/CS/C#program/Homework/Chapter9/Order10/Order10/obj/x86/Debug/Order10.csprojAssemblyReference.cache
+/Users/xander/Documents/StudyDocument/CS/C#program/Homework/Chapter9/Order10/Order10/obj/x86/Debug/Order10.csproj.CoreCompileInputs.cache
+/Users/xander/Documents/StudyDocument/CS/C#program/Homework/Chapter9/Order10/Order10/bin/Debug/Order10.exe
+/Users/xander/Documents/StudyDocument/CS/C#program/Homework/Chapter9/Order10/Order10/bin/Debug/Order10.pdb
+/Users/xander/Documents/StudyDocument/CS/C#program/Homework/Chapter9/Order10/Order10/bin/Debug/MySql.Data.dll
+/Users/xander/Documents/StudyDocument/CS/C#program/Homework/Chapter9/Order10/Order10/bin/Debug/Google.Protobuf.dll
+/Users/xander/Documents/StudyDocument/CS/C#program/Homework/Chapter9/Order10/Order10/bin/Debug/BouncyCastle.Crypto.dll
+/Users/xander/Documents/StudyDocument/CS/C#program/Homework/Chapter9/Order10/Order10/bin/Debug/MySql.Data.xml
+/Users/xander/Documents/StudyDocument/CS/C#program/Homework/Chapter9/Order10/Order10/obj/x86/Debug/Order10.csproj.CopyComplete
+/Users/xander/Documents/StudyDocument/CS/C#program/Homework/Chapter9/Order10/Order10/obj/x86/Debug/Order10.exe
+/Users/xander/Documents/StudyDocument/CS/C#program/Homework/Chapter9/Order10/Order10/obj/x86/Debug/Order10.pdb
